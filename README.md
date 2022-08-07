@@ -12,3 +12,5 @@ Understanding Node
 ### Express
 ### Socket.io
 ### Chapter Quiz
+
+## 5. Building Your Demo App Chat Client for the Browser
