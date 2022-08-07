@@ -14,3 +14,4 @@ Understanding Node
 ### Chapter Quiz
 
 ## 5. Building Your Demo App Chat Client for the Browser
+### Static serving with Express
