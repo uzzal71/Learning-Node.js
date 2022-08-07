@@ -19,3 +19,4 @@ Understanding Node
 ### Create a get messages service
 ### Connect to Socket.io from the browser app
 ### Create your Socket.io event
+### Chapter Quiz
