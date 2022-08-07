@@ -16,3 +16,4 @@ Understanding Node
 ## 5. Building Your Demo App Chat Client for the Browser
 ### Static serving with Express
 ### Create your browser app
+### Create a get messages service
