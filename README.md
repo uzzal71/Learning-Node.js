@@ -17,3 +17,4 @@ Understanding Node
 ### Static serving with Express
 ### Create your browser app
 ### Create a get messages service
+### Connect to Socket.io from the browser app
