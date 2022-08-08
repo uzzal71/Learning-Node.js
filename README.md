@@ -20,3 +20,5 @@ Understanding Node
 ### Connect to Socket.io from the browser app
 ### Create your Socket.io event
 ### Chapter Quiz
+
+## 6. Exploring Databases
