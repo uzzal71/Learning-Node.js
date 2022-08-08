@@ -25,3 +25,4 @@ Understanding Node
 ### Types of data frameworks
 ### Set up MongoDB
 ### Mongoose
+### Saving data to MongoDB with Mongoose
