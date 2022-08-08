@@ -24,3 +24,4 @@ Understanding Node
 ## 6. Exploring Databases
 ### Types of data frameworks
 ### Set up MongoDB
+### Mongoose
