@@ -22,3 +22,4 @@ Understanding Node
 ### Chapter Quiz
 
 ## 6. Exploring Databases
+### Types of data frameworks
